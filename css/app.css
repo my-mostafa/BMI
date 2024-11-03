@@ -1,0 +1,79 @@
+
+
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 90vh;
+    background-color: greenyellow;
+    
+}
+
+.cunt {
+    border-radius: 15px;
+    width: 600px;
+    height: 255px;
+    background-color: aliceblue;
+    box-shadow: 15px 15px 70px rgb(148, 146, 146);
+}
+
+#kg {
+    width: 400px;
+    height: 3px;
+    margin-left: 30px;
+    margin-top: 30px;
+    margin-right: 67px;
+}
+
+#cm {
+    width: 400px;
+    height: 3px;
+    margin-left: 30px;
+    margin-top: 30px;
+    margin-right: 67px;
+    margin-top: 60px;
+
+}
+
+.pav {
+   margin-top: 20px;
+    height: 80px;
+
+
+}
+.avgnum {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 75px;
+    margin-bottom: -8px;
+
+}
+.avgtext {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 10px;
+
+}
+
+.avgnum1 {
+    font-size: 40px;
+    font-weight: bold;
+    
+}
+
+.avgtext1 {
+    font-size: 20px;
+    font-weight: bold;
+
+
+}
+
+
+
+
+
+
+
